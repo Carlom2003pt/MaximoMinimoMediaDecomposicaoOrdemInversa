@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bpDhMg0B6DaYzeClgHUv/M5xcAxdRXFyk39MVEBHpG34KEzWdOUXm27OCBkpjrmzdh6u302s+0abJC7x38bMFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlos Marques\\source\\Antiga\\Programa para calcular o máximo, mínimo, média REV2\\ExRev2\\ExRev2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos Marques\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.18\\microsoft.netcore.app.host.win-x86.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
